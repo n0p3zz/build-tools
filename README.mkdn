@@ -7,7 +7,7 @@ Then, run these commands
 
 ```bash
 git clone https://github.com/vijaychandra800/build-tools
-cd scripts
+cd build-tools
 bash setup/<name of script>
 ```
 
